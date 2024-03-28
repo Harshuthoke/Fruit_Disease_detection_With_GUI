@@ -67,7 +67,7 @@ def preprocess_uploaded_image(image_path, img_size):
     return img
 
 # Path to the dataset directory
-dataset_dir = "D:/Third_Year/Second_Sem/DSCSF/Mini_Project/fruit_disease_detection/Dataset/SenMangoFruitDDS_bgremoved"
+dataset_dir = "D:/Downloads/Fruit_Disease_detection_With_GUI/Dataset/SenMangoFruitDDS_bgremoved"
 # Image size for resizing
 img_size = 128
 
